@@ -1,0 +1,30 @@
+.itemContainer {
+  font-size: 20px;
+}
+
+.item {
+  font-weight: bold;
+  color: #023047;
+  padding: 20px 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item button {
+  padding: 8px;
+  border: none;
+  color: #fff;
+  background-color: #ff6b6b;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.itemContainer hr {
+  border: 2px solid #f5cd79;
+  border-radius: 5px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #95afc0;
+}

@@ -1,0 +1,35 @@
+.todoform {
+  margin: auto;
+  margin-top: 30px;
+  padding: 10px 20px;
+  box-shadow: 0px 3px 8px rgb(0, 0, 0, 0.2);
+  border-radius: 10px;
+  width: 60%;
+}
+
+.inputContainer {
+  display: flex;
+}
+
+.formInput {
+  padding: 5px 0px;
+  border-radius: 5px;
+  width: 100%;
+  display: block;
+  font-size: 17px;
+  border: none;
+}
+
+.formInput:focus {
+  outline: none;
+}
+
+.formButton {
+  background-color: #f5cd79;
+  padding: 5px 10px;
+  font-size: 17px;
+  border-radius: 5px;
+  border: none;
+  color: #023047;
+  cursor: pointer;
+}

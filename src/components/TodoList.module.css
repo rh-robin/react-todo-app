@@ -1,0 +1,8 @@
+.listContainer {
+  margin: auto;
+  box-shadow: 0px 3px 8px rgb(0, 0, 0, 0.2);
+  margin-top: 30px;
+  padding: 20px 20px;
+  border-radius: 10px;
+  width: 60%;
+}
